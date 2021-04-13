@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-woman-96.png</file>
+    <file>icons8-man-96.png</file>
+    <file>icons8-man-48.png</file>
+    <file>woman.png</file>
+    <file>manager.png</file>
+  </qresource>
+</RCC>
