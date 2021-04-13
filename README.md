@@ -10,8 +10,9 @@
 
 
 ## Team Members
+ - Burak Erdoğan
  - Zeynep Yaycı
  - Uğur Dura
  - Cem Özcan
  - Mustafa Aykaç
- - Burak Erdoğan
+
